@@ -2,7 +2,7 @@
 - 🔭 language used: c++/rust/go/java/python/c# ...
 - 🌱 Interested Direction:  ...
 
-[![Top Langs](https://github-readme-stats-ucof.vercel.app/api/top-langs/?username=jcbjcbjc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcbjcbjc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jcbjcbjc/jcbjcbjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
