@@ -1,7 +1,7 @@
 ### A Student majoring Software Engineer in HUST 👋
 - 🔭 I am currently an intern in ByteDance
 - 🌱 language used: c++/rust/go/java/python/c# ...
-- 👯 Interested Direction: Operatating System, Compiler, High Performance Computing
+- 👯 Interested Direction: Operating System, Compiler, High Performance Computing
 
 
 <!--
