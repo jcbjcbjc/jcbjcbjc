@@ -1,8 +1,7 @@
-### A Student majoring Software Engineer in HUST 👋
+### Undergrad@HUST 👋
 My personal website is https://jcbjcbjc.github.io/
-- 🔭 I am currently an intern in ByteDance
-- 🌱 language used: c++/rust/go/java/python/c# ...
-- 👯 Interested Direction: Operating System, Compiler, High Performance Computing
+- 🔭 My primary research interest is Systems & Compiler for Machine learning .Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
+- 🌱 I am very fortunate to be advised by Fan Lai(UIUC), Yue Cheng(UVA), Wei Wang(HKUST), Minchen Yu(CUHK,SZ), Jiasi Shen(HKUST) and Yao Wan(HUST)
 
 
 <!--
