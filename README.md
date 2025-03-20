@@ -1,7 +1,7 @@
 ### Hi 👋
 My personal website is https://jcbjcbjc.github.io/
 
-I’m a senior undergraduate student from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST)
+I’m Chaobo Jia ,a senior undergraduate student from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST)
 
 I'm interested in the area of machine learning systems, including training frameworks, inference frameworks, and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture and cloud computing. Here is the list of open-source projects I have worked on:
 
