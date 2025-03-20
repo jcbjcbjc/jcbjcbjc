@@ -7,8 +7,6 @@ I'm interested in the area of machine learning systems, including training frame
 
 [SGLang](https://github.com/sgl-project/sglang) (Currently working on)
 
-I am very fortunate to be advised by Fan Lai(UIUC), Yue Cheng(UVA), Wei Wang(HKUST), Minchen Yu(CUHK,SZ), Jiasi Shen(HKUST) and Yao Wan(HUST) in my undergrad Research.
-
 During my career, I have been fortunate to work and intern at ByteDance.
 
 
