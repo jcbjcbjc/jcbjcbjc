@@ -1,7 +1,15 @@
-### Undergrad@HUST 👋
+### Hi 👋
 My personal website is https://jcbjcbjc.github.io/
-- 🔭 My primary research interest is Systems & Compiler for Machine learning .Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
-- 🌱 I am very fortunate to be advised by Fan Lai(UIUC), Yue Cheng(UVA), Wei Wang(HKUST), Minchen Yu(CUHK,SZ), Jiasi Shen(HKUST) and Yao Wan(HUST)
+
+I’m a senior undergraduate student from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST)
+
+I'm interested in the area of machine learning systems, including training frameworks, inference frameworks, and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture and cloud computing. Here is the list of open-source projects I have worked on:
+
+[SGLang](https://github.com/sgl-project/sglang) (Currently working on)
+
+I am very fortunate to be advised by Fan Lai(UIUC), Yue Cheng(UVA), Wei Wang(HKUST), Minchen Yu(CUHK,SZ), Jiasi Shen(HKUST) and Yao Wan(HUST) in my undergrad Research.
+
+During my career, I have been fortunate to work and intern at ByteDance.
 
 
 <!--
